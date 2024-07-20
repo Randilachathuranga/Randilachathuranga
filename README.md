@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Randilachathuranga](https://github.com/Randilachathuranga)
+- 👨‍💻 All of my projects are available at [https://github.com/Randilachathuranga?tab=repositories](https://github.com/Randilachathuranga?tab=repositories)
 
 - 📫 How to reach me **randilachathuranga100@gmail.com**
 
