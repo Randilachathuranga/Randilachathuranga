@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on **2nd year group project**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack** and Java
 
 - 👨‍💻 All of my projects are available at [https://github.com/Randilachathuranga?tab=repositories](https://github.com/Randilachathuranga?tab=repositories)
 
