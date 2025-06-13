@@ -1,20 +1,4 @@
-
-  Welcome I'm Randila Chathuranga !
-  
-![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
-![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
-![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
-![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
-![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
-![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
-
-  <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=Randilachathuranga&label=visitors&color=31c442&style=plastic" alt="Randilachathuranga" /> </p>
-
-  </h3>
- 
-
-
-
+<h2 align="center">Welcome I'm Randila Chathuranga !</h2>
 <h3 align="center">Student at University of Colombo School of Computing</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
