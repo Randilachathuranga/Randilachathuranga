@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **3rd year group project**
 
-- 🌱 I’m currently learning **ReactNative** and Java
+-🌱 I’m currently learning React Native and Java, and building a mobile app for plumbers to manage materials and workflow efficiently.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Randilachathuranga?tab=repositories](https://github.com/Randilachathuranga?tab=repositories)
 
 - 📫 How to reach me **randilachathuranga100@gmail.com**
 
-- ⚡ Fun fact **Call me Randi**
+- ⚡ Fun fact **Call me Randil**
 <br>
 
   <h3 align="left">Connect with me:</h3>
@@ -82,16 +82,9 @@
 
   <br />
   
-  <br /><br />
-  Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Randilachathuranga&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Randilachathuranga&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
-  
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
