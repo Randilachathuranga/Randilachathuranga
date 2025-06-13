@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **3rd year group project**
 
--🌱 I’m currently learning React Native and Java, and building a mobile app for plumbers to manage materials and workflow efficiently.
+- 🌱 I’m currently learning React Native and Java, and building a mobile app for plumbers to manage materials and workflow efficiently.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Randilachathuranga?tab=repositories](https://github.com/Randilachathuranga?tab=repositories)
 
@@ -41,13 +41,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br /><br />
   <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
   <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
   <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-  <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
     <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
   <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
